@@ -1,5 +1,5 @@
 # PRAK_DKP_MODUL4_KEL19
-Tugas modul 4 membuat program konsumsi BBM menggunakan Java
+Tugas modul 4 membuat program perhitungan konsumsi BBM menggunakan Java
 
 Kelompok 19 Praktikum DKP 2021
 
